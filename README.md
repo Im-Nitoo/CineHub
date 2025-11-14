@@ -1,4 +1,4 @@
-# 🎬 CineRate - Movie Review Website
+# 🎬 CineRate
 
 A modern, responsive movie rating and review website built with HTML, CSS, and JavaScript. CineRate allows users to discover movies, read reviews, and write their own reviews with an intuitive star rating system.
 
@@ -55,36 +55,6 @@ Movie-Review-Website/
 └── README.md          # Project documentation
 ```
 
-## 🚀 Getting Started
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/CypherNinjaa/Movie-Review-Website.git
-   ```
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd Movie-Review-Website
-   ```
-
-3. **Open in your browser**:
-
-   - Simply open `index.html` in any modern web browser
-   - Or use a local server (recommended):
-
-     ```bash
-     # Using Python
-     python -m http.server 8000
-
-     # Using Node.js
-     npx serve
-     ```
-
-4. **Access the website**:
-   - Direct: Open `index.html` file
-   - Local server: `http://localhost:8000`
 
 ## 🎯 How to Use
 
@@ -181,45 +151,3 @@ Add new movies to the `sampleMovies` array in `script.js`:
 - Click the logo 5 times for a surprise! 🎬
 - Console messages for developers
 - Random hero title rotation
-
-## 🔮 Future Enhancements
-
-- [ ] User authentication system
-- [ ] Movie database API integration
-- [ ] Advanced filtering options
-- [ ] User profiles and favorites
-- [ ] Movie recommendations
-- [ ] Comment system for reviews
-- [ ] Social sharing features
-- [ ] Movie trailers integration
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Developer
-
-**CypherNinjaa**
-
-- GitHub: [@CypherNinjaa](https://github.com/CypherNinjaa)
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for Poppins font family
-- Inspiration from modern movie websites
-- Open source community
-
----
-
-**Made with ❤️ and lots of ☕**
-
-_Happy movie reviewing! 🍿_
